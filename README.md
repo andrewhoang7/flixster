@@ -41,4 +41,3 @@ Definitely trying to understand how the steps connect intuitively when setting u
 <img src="http://g.recordit.co/PpygkQcNrL.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
